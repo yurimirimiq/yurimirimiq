@@ -1,7 +1,7 @@
 ## 강유림 | Yurim Kang
 
-<a href="mailto:uuuhyun.kim@gmail.com"><img src="https://img.shields.io/badge/uuuhyun.kim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;"/></a>
-<a href="https://www.instagram.com/u_hyuuun/"><img src="https://img.shields.io/badge/@u_hyuuun-9c38d1?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align: middle;"/></a>
+<a href="mailto:xlalrnldud@naver.com"><img src="https://img.shields.io/badge/xlalrnldud@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" style="vertical-align: middle;"/></a>
+<a href="https://www.instagram.com/yurimirimiq/"><img src="https://img.shields.io/badge/@yurimirimiq-E1306C?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align: middle;"/></a>
 
 ## 👋 About me?
 Hello! I am Yurim Kang, currently pursuing my B.S. in Artificial Intelligence at Inha University. My academic journey is centered on exploring advanced AI technologies, with a strong focus on Financial AI. I love diving into research, experimenting with new models, and turning technical ideas into practical applications. I'm excited to connect with fellow developers and researchers to grow together in this rapidly evolving field.
